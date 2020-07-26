@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8257b636-61bc-4520-8cb8-ce5edab976af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bOUiPjyuPpsQYxciYz9caq9YAD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.index2">
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="second_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index2" type="PythonConfigurationType" factoryName="Python">
+      <module name="second_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.index" />
+      <item itemvalue="Python.index2" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8257b636-61bc-4520-8cb8-ce5edab976af" name="Default Changelist" comment="" />
+      <created>1588502759417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588502759417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588504823632">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="366" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.788@0.23.1440.788" timestamp="1588504823632" />
+    <state width="1414" height="189" key="GridCell.Tab.0.bottom" timestamp="1588506027594">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1414" height="189" key="GridCell.Tab.0.bottom/0.23.1440.788@0.23.1440.788" timestamp="1588506027594" />
+    <state width="1414" height="189" key="GridCell.Tab.0.center" timestamp="1588506027593">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1414" height="189" key="GridCell.Tab.0.center/0.23.1440.788@0.23.1440.788" timestamp="1588506027593" />
+    <state width="1414" height="189" key="GridCell.Tab.0.left" timestamp="1588506027591">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1414" height="189" key="GridCell.Tab.0.left/0.23.1440.788@0.23.1440.788" timestamp="1588506027591" />
+    <state width="1414" height="189" key="GridCell.Tab.0.right" timestamp="1588506027593">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1414" height="189" key="GridCell.Tab.0.right/0.23.1440.788@0.23.1440.788" timestamp="1588506027593" />
+    <state x="71" y="23" key="SettingsEditor" timestamp="1588504110702">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="71" y="23" key="SettingsEditor/0.23.1440.788@0.23.1440.788" timestamp="1588504110702" />
+  </component>
+</project>
